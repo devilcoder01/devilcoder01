@@ -7,9 +7,10 @@ I am a computer engineering student. and have webdeveolpment skill, python, node
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/su_bha_dip___) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MSJana96) 
 
 ## 🛸 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=devilcoder01&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="210"/>
+</div>
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/subhadipjana) 
