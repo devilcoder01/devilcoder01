@@ -8,8 +8,8 @@ I am a computer engineering student. and have webdeveolpment skill, python, node
 
 ## 🛸 GitHub Stats:
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="210"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
 </div>
 
   ## 💰 You can help me by Donating
