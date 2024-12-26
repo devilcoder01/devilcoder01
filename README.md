@@ -11,12 +11,6 @@ or just vibing with clasical music. 🎧
 ## 🛼 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/su_bha_dip___) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/MSJana96) 
 
-## 🛸 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devilcoder01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="150"/>
-</div>
-
 ---
 
 💡 **Fun Fact**: I don’t just write code—I craft experiences. And yes, I break things sometimes... but hey, that's how I learn! 😎
