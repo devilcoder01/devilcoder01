@@ -3,7 +3,7 @@
 I'm not your regular computer engineering student—I'm the <b>bug-buster</b> the <b>syntax slayer</b> and the ultimate explorer of the tech galaxy. Whether I'm brewing code in <b>Node.js</b>, weaving magic with <b>Python</b>, or building the next web wonder, I'm all about making tech <b>fun</b> and <b>fascinating</b>. 🎨✨<br><br>
 
 When I'm not coding, you'll find me:  
-🍿 Binging sci-fi movies,  
+🍿 Binging sci-fi, romantic movies,  
 🎮 Beating high scores in games,  
 🌱 Learning the latest tech trends,  
 or just vibing with clasical music. 🎧 
